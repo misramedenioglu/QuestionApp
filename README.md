@@ -22,5 +22,5 @@ Bu proje, kullanıcının eğlenceli bir şekilde soruları yanıtlayabileceği 
 
 ### Canlı Link
 
-
+https://my-awesome-question-app.netlify.app/
 
