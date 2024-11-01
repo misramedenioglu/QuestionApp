@@ -90,7 +90,7 @@ function App() {
   const [userAnswers, setUserAnswers] = useState([]); // Kullanıcının cevaplarını tutar
   const [showNextButton, setShowNextButton] = useState(false); // "Sonraki Soru" butonunun görünürlüğünü kontrol eder
 
-  const QUESTION_TIMER = 7;
+  const QUESTION_TIMER = 30;
 
   const handleNextQuestion = useCallback(() => {
     setShowOptions(false);
